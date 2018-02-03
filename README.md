@@ -9,7 +9,7 @@ addresses.
 python3 topn-emails.py < data/emails.txt
 ```
 
-By defautl, the script will return 10 top domains. If you want to get a different value, run
+By default, the script will return 10 top domains. If you want to get a different value, run
 
 ```bash
 python3 topn-emails.py 15 < data/emails.txt
